@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update appID="TestApp"> 
         <version>2.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/dhararnab58/Projectss/master/Chapter.accdb</url> 
+        <url>https://github.com/dhararnab58/Projectss/blob/master/Chapter.accdb</url> 
         <fileName>TestApp.exe</fileName> 
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
         <description>Update: 06/19/2014:
